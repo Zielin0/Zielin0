@@ -47,4 +47,9 @@ Frameworki do JS z których korzystam to
 <strong>-</strong> <a href="https://github.com/Zielin0/Gwint-CLI" target="_blank">Gwint CLI</a>
 </p>
 
-
+<br />
+<p align="center">
+  <a href="https://github.com/Zielin0/Zielin0/blob/main/README_en.md">
+    <small>[english version]</small>
+  </a>
+</p
