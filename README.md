@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://Zielin0.ct8.pl/" target="_blank"><img src="https://Zielin0.ct8.pl/favicon.ico" width="260" alt="Zielino Avatar"></img></a>
+  <a href="https://Zielin0.ct8.pl/" target="_blank"><img src="https://Zielin0.ct8.pl/favicon.ico" width="200" alt="Zielino Avatar"></img></a>
 </p>
 
 <br />
