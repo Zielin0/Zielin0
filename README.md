@@ -6,6 +6,22 @@
 
 <p align="center">
 <strong>Siema, jestem <a href="https://github.com/Zielin0/" target="_blank">Zielino</a> i interesuje się programowaniem.</strong>
+<br />
+<light>Języki programowania którymi się interesuje to: JavaScript, TypeScript, Python.</light>
+<br />
+<light>Do pisania kodu korzystam z <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a></light>
+<br />
+<light>
+Frameworki do JS z których korzystam to 
+  <a href="https://nodejs.org/" target="_blank">Node.js</a>
+  i
+  <a href="https://github.com/facebook/react/" target="_blank">React.js</a>
+</light>
+<br />
+<light>
+  Jako menadżera bibliotek Node używam
+  <a href="https://github.com/yarnpkg/yarn/" target="_blank">yarn</a>
+</light>
 </p>
 
 <br />
@@ -30,3 +46,5 @@
 <br />
 <strong>-</strong> <a href="https://github.com/Zielin0/Gwint-CLI" target="_blank">Gwint CLI</a>
 </p>
+
+
