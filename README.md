@@ -38,14 +38,6 @@ Frameworki do JS z których korzystam to
 </p>
 
 <br />
-<br />
-
-<p align="center">
-<strong>Moje Projekty</strong>
-<br />
-<br />
-<strong>-</strong> <a href="https://github.com/Zielin0/Gwint-CLI" target="_blank">Gwint CLI</a>
-</p>
 
 <br />
 <p align="center">
