@@ -41,9 +41,3 @@ The JavaScript frameworks I use are
 <br />
 <br />
 
-<p align="center">
-<strong>Projects</strong>
-<br />
-<br />
-<strong>-</strong> <a href="https://github.com/Zielin0/Gwint-CLI" target="_blank">Gwint CLI</a>
-</p>
