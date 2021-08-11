@@ -32,7 +32,7 @@ Frameworki do JS z których korzystam to
 <br />
 <a href="https://twitter.com/theZielino/" target="_blank"><strong>Twitter</strong></a>
 <br />
-<a href="https://Zielin0.ct8.pl/"><strong>Strona Internetowa</strong></a>
+<a href="https://zielinus.gq/"><strong>Strona Internetowa</strong></a>
 <br />
 <strong>Discord: Zielino#6969</strong>
 </p>
