@@ -34,7 +34,7 @@ Frameworki do JS z których korzystam to
 <br />
 <a href="https://zielinus.gq/"><strong>Strona Internetowa</strong></a>
 <br />
-  <strong>Discord: Zielino#1337 / Server: <a href="https://dc.zielinus.gq/" target="_blank"></a></strong>
+  <strong>Discord: Zielino#1337 / <a href="https://dc.zielinus.gq/" target="_blank">Server</a></strong>
 </p>
 
 <br />
