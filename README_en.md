@@ -35,7 +35,7 @@ The JavaScript frameworks I use are
 <br />
 <a href="https://zielinus.gq/"><strong>Website</strong></a>
 <br />
-<strong>Discord: Zielino#6969</strong>
+  <strong>Discord: Zielino#1337 / <a href="https://dc.zielinus.gq/" target="_blank">Server</a></strong>
 </p>
 
 <br />
