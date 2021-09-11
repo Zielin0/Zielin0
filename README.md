@@ -1,47 +1,35 @@
 <p align="center">
-  <a href="https://Zielin0.ct8.pl/" target="_blank"><img src="https://Zielin0.ct8.pl/favicon.ico" width="180" alt="Zielino Avatar"></img></a>
+  <img src="https://zielinus.gq/favicon.ico" width="200" alt="Zielino Avatar"></img>
+  <br>
+  <h1 align="center">Zielino</h1>
 </p>
 
-<br />
+<br>
+<br>
+
+<h2 align="center">Github Stats: </h2>
 
 <p align="center">
-<strong>Siema, jestem <a href="https://github.com/Zielin0/" target="_blank">Zielino</a> i interesuje się programowaniem.</strong>
-<br />
-<light>Języki programowania którymi się interesuje to: JavaScript, TypeScript, Python.</light>
-<br />
-<light>Do pisania kodu korzystam z <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a></light>
-<br />
-<light>
-Frameworki do JS z których korzystam to 
-  <a href="https://nodejs.org/" target="_blank">Node.js</a>
-  i
-  <a href="https://github.com/facebook/react/" target="_blank">React.js</a>
-</light>
-<br />
-<light>
-  Jako menadżera bibliotek Node używam
-  <a href="https://github.com/yarnpkg/yarn/" target="_blank">yarn</a>
-</light>
+  <img src="https://github-readme-stats.vercel.app/api?username=Zielin0&show_icons=true&bg_color=000&text_color=EEE&border_color=111" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zielin0&layout=compact&bg_color=000&text_color=FFF&border_color=111"  height="165">
 </p>
 
-<br />
-<br />
+<br>
+
+<h2 align="center">Contributions Stats: </h2>
 
 <p align="center">
-<a href="https://www.youtube.com/channel/UCakn5eq0LuKV3CMdnAc2aig/" target="_blank"><strong>YouTube</strong></a>
-<br />
-<a href="https://twitter.com/theZielino/" target="_blank"><strong>Twitter</strong></a>
-<br />
-<a href="https://www.zielinus.gq/"><strong>Strona Internetowa</strong></a>
-<br />
-  <strong>Discord: Zielino#1337 / <a href="https://dc.zielinus.gq/" target="_blank">Server</a></strong>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zielin0&theme=highcontrast&background=000000&stroke=222222&ring=2F80ED&fire=4c71f2&border=222222&currStreakNum=FFFFFF&currStreakLabel=EEEEEE">
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Zielin0&bg_color=000000&color=ffffff&point=4c71f2&line=2F80ED&area=true&area_color=0000ff&hide_border=true" width="650">
 </p>
 
-<br />
+<br>
 
-<br />
+<h2 align="center">Discord Status: </h2>
+
 <p align="center">
-  <a href="https://github.com/Zielin0/Zielin0/blob/main/README_en.md">
-    <small>[english version]</small>
+  <a href="https://discord.com/users/691735699350749273">
+    <img src="https://discord.c99.nl/widget/theme-4/691735699350749273.png">
   </a>
-</p
+</p>
