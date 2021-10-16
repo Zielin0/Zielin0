@@ -30,6 +30,6 @@
 
 <p align="center">
   <a href="https://discord.com/users/691735699350749273">
-    <img src="https://discord.c99.nl/widget/theme-4/691735699350749273.png">
+    <img src="https://discord.c99.nl/widget/theme-5/691735699350749273.png">
   </a>
 </p>
