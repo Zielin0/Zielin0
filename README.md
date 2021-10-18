@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://zielinus.gq/favicon.ico" width="200" alt="Zielino Avatar"></img>
+  <img src="https://zielinus.gq/assets/favicon.ico" width="200" alt="Zielino Avatar"></img>
   <br>
   <h1 align="center">Zielino</h1>
 </p>
