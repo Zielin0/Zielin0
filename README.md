@@ -1,5 +1,7 @@
 <p align="center">
+  <a href="https://zielino.siurasowo.tk/">
   <img src="https://zielino.siurasowo.tk/assets/img/favicon.ico" width="200" alt="Zielino Avatar"></img>
+  </a>
   <br>
   <h1 align="center">Zielino</h1>
 </p>
