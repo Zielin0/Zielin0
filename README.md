@@ -1,4 +1,4 @@
-# Hello! Welcome to my Github profile :D
+# Hello! :D
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Zielin0&show_icons=true&theme=radical&text_color=EEE&icon_color=ff0d8e&bg_color=00000000&border_color=000000AA" height="175">
