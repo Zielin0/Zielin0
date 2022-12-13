@@ -7,7 +7,7 @@
 
 <br />
 
-<h3><a href="https://www.zielinus.xyz">My Website</a></h3>
+<h3>My website: <a href="https://www.zielinus.xyz">zielinus.xyz</a></h3>
 
 <h2>Tools I use:</h2>
 
