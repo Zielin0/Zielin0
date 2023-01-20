@@ -35,6 +35,9 @@
   <a href="https://www.postgresql.org/" style="text-decoration: none">
     <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" />
   </a>
+  <a href="https://www.vuejs.org/" style="text-decoration: none">
+    <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" />
+  </a>
 </div>
 
 <br />
