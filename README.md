@@ -9,6 +9,4 @@
 
 <h3>My website: <a href="https://www.zielinus.xyz">zielinus.xyz</a></h3>
 
-<br />
-
 <h3>Discord: <a href="https://discord.com/users/691735699350749273">Zielino#7342</a></h3>
